@@ -1,1 +1,1 @@
-This folder contains the C code for our embedded systems project.
+This folder contains our project proposal, design documents, and test results.
